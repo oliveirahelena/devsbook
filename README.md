@@ -1,4 +1,4 @@
-# DevsBokk
+# DevsBook
 Um clone do Facebbok usando PHP 7.4, composer, MVC e Hydrahon.
 
 ## Instalação
